@@ -28,3 +28,5 @@ This list has been compiled by the community and can be modified [via pull reque
  * [Slim.js](http://slimjs.com) Slim.js is a lightweight web component library that provides extended capabilities for components, such as data binding, using es6 native class inheritance. This library is focused for providing the developer the ability to write robust and native web components without the hassle of dependencies and an overhead of a framework.
  
  * [Stencil](https://stenciljs.com/) is an opensource compiler that generates standards-compliant web components.
+
+ * [XinJS](https://xinjs.net/) allows components to be written in pure TypeScript or JavaScript by [subclassing](https://github.com/tonioloewald/xinjs/blob/main/docs/web-components.md) an abstract `Component` class. It also handles data and event binding (with virtual lists) and provides a very clean syntax for creating HTML [elements](https://github.com/tonioloewald/xinjs/blob/main/docs/elements.md), allowing you to build reusable components that are web-components or simply collections of bare HTML elements.
